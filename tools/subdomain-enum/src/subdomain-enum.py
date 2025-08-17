@@ -37,3 +37,6 @@ for thread in threads:
 with open("discovered_subdomains.txt", 'w') as f:
     for subdomain in discovered_subdomains:
         print(subdomain, file=f)
+
+
+# video stuck at 6:48
