@@ -1,4 +1,4 @@
-# Python enumeration tools for pentesting.
+# Python enumeration tools
 
 
 # DNS Enumerator
