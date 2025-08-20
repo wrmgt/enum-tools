@@ -101,3 +101,7 @@ requests
   python3 subdomain_enum.py
   ```
   - Discovered subdomains will be printed to the console and saved into discovered_subdomains.txt
+
+## Roadmap
+
+- TBD
